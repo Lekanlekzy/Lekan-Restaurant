@@ -8,8 +8,17 @@ function App() {
 
   return (
     <div>
-      ggf
-      <h1>Hello World!</h1>
+      <Navbar />
+      <Header />
+      <AboutUs />
+      <SpecialMenu />
+      <Chef />
+      <Intro />
+      <Laurels />
+      <Gallery />
+      <FindUs />
+      <Footer />
+
     </div>
   )
 }
