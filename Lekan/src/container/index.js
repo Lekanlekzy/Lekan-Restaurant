@@ -9,4 +9,4 @@ import Laurels from './Laurels/Laurels'
 import SpecialMenu from './SpecialMenu/SpecialMenu'
 import Navbar from './Navbar/Navbar'
 
-export default {AboutUs, Intro, Laurels, SpecialMenu, Chef, Footer, Gallery, FindUs, Navbar, Header}
+export {AboutUs, Intro, Laurels, SpecialMenu, Chef, Footer, Gallery, FindUs, Navbar, Header}
